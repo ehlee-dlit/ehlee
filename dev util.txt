@@ -1,0 +1,36 @@
+[백업]
+dropbox
+Google Drive
+One Drive
+
+[비교도구]
+diff tool
+
+[버전무시]
+.gitignore 파일을 만들어 적어둔다  => 버전관리하지않을경우
+
+branch
+
+commit id 이용
+
+tag : commit id 에 이름을 붙임
+
+
+
+===> sourceTree
+
+bitbucket.org / heeya61
+
+
+===> 비교도구
+kdiff3
+
+termux==========
+pkg install nano
+y
+nano
+
+
+
+
+
